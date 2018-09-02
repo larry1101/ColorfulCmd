@@ -9,4 +9,5 @@ jni调用dll中的c++代码使用windows的接口
 
 ## Demo: colorfulcmd.jar
 win + R -> cmd
+
 java -jar colorfulcmd.jar
