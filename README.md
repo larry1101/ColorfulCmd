@@ -11,3 +11,5 @@ jni调用dll中的c++代码使用windows的接口
 win + R -> cmd
 
 java -jar colorfulcmd.jar
+
+need ColorfulCmd.dll in java.library.path
